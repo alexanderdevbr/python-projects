@@ -1,0 +1,8 @@
+Guia de configuração do ambiente de desenvolvimento
+https://learn.microsoft.com/pt-br/windows/python/web-frameworks
+
+Ambiente virtual
+----------------
+Abra o terminal e, na pasta do projeto HelloWorld, use o seguinte comando para criar um ambiente virtual chamado .venv: python3 -m venv .venv.
+
+Para ativar o ambiente virtual, insira source .venv/bin/activate. Se isso funcionou, você deve ver (.venv) antes do prompt de comando. Agora você tem um ambiente autossuficiente pronto para codificação e instalação de pacotes. Quando terminar de trabalhar com o ambiente virtual, insira o seguinte comando para desativá-lo: deactivate.
