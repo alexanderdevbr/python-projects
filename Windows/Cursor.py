@@ -13,7 +13,6 @@ import pyautogui
 import time
 import random
 
-#for z in range(1,10000):
 z=0
 while True:
     x = random.randint(0, 500)
